@@ -1,0 +1,1211 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true relation of the bloody attempt by James Salowayes to cut his own throat in the compter, upon Sunday the 21. of June, 1663 together with Satans attempt and overthrow, in a sermon preached upon the occasion in Wood-street-compter, upon Sunday the 21. of June, 1663 / by R.F. ...</title>
+            <author>R. F.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 78 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63676</idno>
+            <idno type="STC">Wing T2935</idno>
+            <idno type="STC">ESTC R39734</idno>
+            <idno type="EEBO-CITATION">18477876</idno>
+            <idno type="OCLC">ocm 18477876</idno>
+            <idno type="VID">107821</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63676)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107821)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1644:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true relation of the bloody attempt by James Salowayes to cut his own throat in the compter, upon Sunday the 21. of June, 1663 together with Satans attempt and overthrow, in a sermon preached upon the occasion in Wood-street-compter, upon Sunday the 21. of June, 1663 / by R.F. ...</title>
+                  <author>R. F.</author>
+               </titleStmt>
+               <extent>[8], 26, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. Dickinson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: p. [8].</note>
+                  <note>Imperfect: faded, with some loss of print.</note>
+                  <note>Reproduction of original in the Guildhall, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Matthew IV, 3 --  Sermons.</term>
+               <term>Suicide --  England --  Religious aspects --  Christianity.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Graham Hukill</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Graham Hukill</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:107821:1"/>
+            <pb facs="tcp:107821:1" rendition="simple:additions"/>
+            <p>THE TRUE RELATION Of the bloody Attempt by <hi>JAMES SALOWAYES</hi> To cut his own Throat in the <hi>Compter,</hi> upon Sunday the 21. of <hi>June,</hi> 1663.</p>
+            <p>TOGETHER WITH Satans Attempt and Overthrow, IN A SERMON Preached upon that occaſio<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in <hi>Wood-ſtreet-Compter,</hi> upon Sunday the 21. of <hi>June,</hi> 1663.</p>
+            <p>B <hi>R. F.</hi> Miniſter of Gods Word.</p>
+            <q>
+               <p>Deliver me from blood-guiltineſs, O God,</p>
+               <bibl>
+                  <hi>Pſal. 51 14.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R. Dickinſon, Anno Dom.</hi> 1663.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:107821:2"/>
+            <pb facs="tcp:107821:2"/>
+            <head>To the Honourable Sir <hi>William Tur<g ref="char:EOLhyphen"/>ner,</hi> Knight and Baronet, Sheriffe of the City of <hi>London.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is the occaſion, not the opinion of any worth in this work, which preſumeth a neceſſity to become publick; for ſeeing the beſt of men are not exempted from, and the worſt do too willingly admit temptations, it is my de<g ref="char:EOLhyphen"/>ſire that this example may not only be printed in this paper, but imprinted in our hearts, <hi>Actiones Prece<g ref="char:EOLhyphen"/>dentium ſunt ſuccedentium libri,</hi> The Actions of our Predeceſſors are our books, much more may this exem<g ref="char:EOLhyphen"/>plary act become a book to us who are preſent, where<g ref="char:EOLhyphen"/>in we may read Mans frailty, the Tempters malice, Gods great and ever to be remembred reſtraint. The Preſs and the Pulpit have of late been too guilty of light Wares, and traded too much (to our ſhame and ſorrow) in triflls and unhappy troubles, Truth hath rather been ſuppreſſed then printed, not commended to the print, but condemned to the Preſs for ſilence; we have had papers ſtuffed with words of a new ſtamp, cruel murders vizarded with the title of ſignal victories, <hi>Faelix &amp; proſperum ſcaelus virtus vocatur,</hi> and thoſe ſheets may now ſerve for the Authors pen<g ref="char:EOLhyphen"/>nance. And it hath been the delight of the troublers
+<pb facs="tcp:107821:3"/>of our <hi>Iſrael,</hi> to enlarge their Pamphlets with a liſt of their murdered Brethren: As I cannot but ſorrow for their ſin and proteſt againſt their practice, ſo I cannot but conceive the printing of this haynom act may be no leſſe then neceſſary: Here is not one <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> againſt another, but which is worſe, a more unnatur<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> war, a man fighting againſt himſelf; the Tempter here deſigning the final diſcomfiture of ſoul and body. <hi>Nobis eſt in exemplum;</hi> theſe works are warning-pieces, our ſins and Satans wiles do aſſume his name, Legion, for they are many: Many ſad blows do we receive from Satan, <hi>Peccata ſunt totidem vulnera,</hi> and every day whilſt we are in the field of this world preſents a Duel unto us, our members warring againſt the Spirit we ſtand in need of Armour, and this pre<g ref="char:EOLhyphen"/>ſents unto us Armour like <hi>Davids,</hi> which we ought to prove; and Chriſt is here preſented as a Champion, through whom we are only conquerours.</p>
+            <p>This is all I preſume to preſent to you, it is no pride that puts me upon it, but that warrantable ambition to do the weaker people ſervice, which, I hope, may beſeech your acceptance and excuſe.</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>Your unworthy, but oblidged Servant R. F.</signed>
+            </closer>
+         </div>
+         <div type="story">
+            <pb facs="tcp:107821:3"/>
+            <head>The true Relation of that ſtrange attempt by <hi>James Salowayes</hi> upon himſelf, to cut his own Throat, in <hi>Wood-ſtreet Compter,</hi> Sunday <hi>June 21. 1663.</hi>
+            </head>
+            <p>UPon Saturday the twentieth of <hi>June</hi> he was brought priſoner to <hi>Wood ſtreet Compter,</hi> his debt was about three pounds, but his grief was more then his debt: He was obſerved to beſid<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which was rather imputed to his condition then his conſti<g ref="char:EOLhyphen"/>tution, few men come there but are accompanied with ſadneſs: The next day, being Sunday, he was preſent whilſt divine Service and Sermon comma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, and afterwards invited by a Friend to dine, a kind<g ref="char:EOLhyphen"/>neſs not to be denyed in that place, where he eat lit<g ref="char:EOLhyphen"/>tle, and, as was obſerved, ſpake leſs; after dinner ſome words, not ſo well underſtood as heard were ſpoken by him to his <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>er in love then a Priſoner, <hi>viz.</hi> That he wondered that people in the priſon ſhould talk of him, and ſomething of <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ni<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, but ſo imperfect, that his <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rother was <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ather <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> then ſerupulous to know <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> meaning: He r<gap reason="illegible" resp="#UOM" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>d him<g ref="char:EOLhyphen"/>ſelf without ſuſpition of any his brother ſuppoſing only he had gone to ſleep; but a voyce (as he after<g ref="char:EOLhyphen"/>wards confeſſed) uttered within him. <hi>Thou ſhalt be burned in this Priſon, therefore it is better for thee to make away thy ſelf then be burnt:</hi> He preſently went to a Houſe of office a little diſtrant from his chamber,
+<pb facs="tcp:107821:4"/>where with a knife broken in the edge he wounded himſelf in the throat, and took the gullet, by which the meat paſſeth into the body in his hand, and cut a piece of it, and threw it in the Houſe of Office, he widened the wound four wayes, and leaned upon his hands to let his blood run into the Houſe of office; ſome Priſoners which heard a noiſe came near, but ſuſpecting nothing, only ſuppoſing his ſickneſs and vomiting, withdrew, which gave him further time to execute his purpoſe; then he layes his knife by, and takes his band, with which he wiped the blood from the boards, and ſtopped his band into his wound, whereby you may conceive the largeneſs of it; but finding not ſo ſudden a diſpatch as he deſired, he willing to put an end to it, draws his band from the wound, throws it into the Houſe of office, and be<g ref="char:EOLhyphen"/>takes himſelf to his knife, reſolving, as he ſayes, to ſtrike home and cut the wind-pipe, when loe the Power of God, whilſt he was lifting it to his throat, the knife (though, as he ſayes, firmly holden) dropt out of his hand into the Houſe of office, where he could not recover it. This continued till Evening-ſervice was begun, at which time ſome Priſoners, ha<g ref="char:EOLhyphen"/>ving oocaſion that way, found him all bloody and ſpeechleſs. It was forth with made known to the Offi<g ref="char:EOLhyphen"/>cers, who readily ſent for a Chirurgion; the skin was ſtitched, but the part of the gullet wanting: he con<g ref="char:EOLhyphen"/>tinued for full ſix hours ſpeechleſs; yet while we were in prayer he did by lifting up his hand anſwer to our deſires, and when I urged unto him the dan<g ref="char:EOLhyphen"/>ger of his condition and neceſſity of unfeigned re<g ref="char:EOLhyphen"/>pentance, he did by ſhaking his head evidence his
+<pb facs="tcp:107821:4"/>ſorrow; I deſired him to keep his thoughts a work in praying unto God, he lift up his hand and looked earneſtly upon me; about eight that evening it pleaſed God to give him ſtrength to ſpeak, and he did aſſure us he underſtood and remembred what we had ſaid whilſt he was ſpeechleſs, he ſaid he was ſorry for his hainous fact, and told me, he hoped by the morning to be better able to ſatisfie me further: That night was troubleſome to him and paſſed without reſt, but in the morning he ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ept for ſome hours, and upon his waking I came to him, and ſpake to him, he preſently thanked me for my pains, and told me he had great cauſe to give God praiſe for the addition of that mercy, to add one day more to his life, and he deſired to live to glorifie God. I found it not requiſite to trouble him with many queſtions, thoſe few I asked were, firſt, if he were not very ſen<g ref="char:EOLhyphen"/>ſible of his ſin, how much he had offended the Mer<g ref="char:EOLhyphen"/>cy of God in offering to commit that horrid act? He told me he had finned grievouſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, and heartily deſired pardon. I asked what might chiefly occaſion that deſperate act? He told me, Sabbath-breaking, that he had the Sabbath day before by lewd Soul<g ref="char:EOLhyphen"/>diers been perſwaded to drink and play, and in his exceſs they had deceived him of moneys, and ſince that time he had been melancholly, and bad moti<g ref="char:EOLhyphen"/>ons were ſuggeſted to him. I asked him in what manner his temptation was, whether by appearance, or ſome voyce uttering expreſs words? He told me again, not by appearance, but a voyce ſince he came into Priſon ſpoke within him, and told him, <hi>He ſhould be burned in priſon, and therefore better to make him<g ref="char:EOLhyphen"/>ſelf
+<pb facs="tcp:107821:5"/>away with his knife.</hi> I asked him if now he had not a great deſire to live? He told me yes, that he might glorifie God. I asked him, if he had a com<g ref="char:EOLhyphen"/>fortable experience of Gods Power over Satan, and Mercy towards him, in preventing the full executi<g ref="char:EOLhyphen"/>on of the act? He told me, looking more ſtedfaſtly upon me. O yes yes, my good God would not let me hold my knife, but dropped it down. I preſſed him no more with queſtions, but ſpoke ſome comfortable and aſſuring ſentences of holy Writ unto him, and ended in Prayer. Whilſt he continued there he did demonſtrate his ſorrow, and deſire to live to ſerve God in a ſtricter manner.</p>
+            <p>This is the plain and impartial relation of this bloody buſineſs, which is worthy of reading and re<g ref="char:EOLhyphen"/>membring: The breach of the Sabbath did occa<g ref="char:EOLhyphen"/>on it, and on the Sabbath he endeavours to pay him<g ref="char:EOLhyphen"/>ſelf the wages of ſo bad a work.</p>
+            <p>With this be pleaſed to read the Sermon pur<g ref="char:EOLhyphen"/>poſely preached to warn the Auditors, and printed for no other end but the advantage of the Reader, which is the deſire of</p>
+            <closer>
+               <signed>R. F.</signed>
+            </closer>
+         </div>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>
+               <hi>Page 4 line 10. read</hi> praedi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere: <hi>l 11. for</hi> prodict <hi>c.</hi> praedict: <hi>p. 6. l. 26. fo</hi> Ba l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Ba<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ak <hi>p 8 l 15</hi> Judamy <hi>r</hi> Judae<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>: <hi>p 10. l. 25. for</hi> templatio <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> templatio: <hi>p 13. l. 2, r,</hi> let them have a double portion of honour: <hi>p 18. l. 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> interiorem <hi>and</hi> exteriorem: <hi>p. 26. l. 34. r.</hi> tecum ero, <hi>I will be with thee.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:107821:5"/>
+            <head>Satans Attempt and Overthrow.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>MAT. 4. ver. 3.</hi>
+                  </bibl>
+                  <p>And when the Tempter came to him, he ſaid, If thou be the Son of God, command that theſe ſtones be made bread.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>Here is not mention of many actions of our Sa<g ref="char:EOLhyphen"/>viour Chriſt betwixt his Birth and his Baptiſm, in thoſe thirty years, as if he had not been man<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re for any publick matter, or otherwiſe not called to them he lived privately; only we read of his Father and his Mother) though that Sex may ſeem to be exempted) their yearly going to <hi>Je<g ref="char:EOLhyphen"/>ruſalem,</hi> and himſelf very probably went along, for certain he was there in the twelfth of his age, where he ſtay'd behind them, to the grief of his Parents, and occaſion of their ſearch with ſorrow, and the third day (as if he would ſo early inti<g ref="char:EOLhyphen"/>mate the time of his Reſurrection) was he found of them, in a place and poſture where they could not expect him: He was in the Temple, and that n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t with mean company but amidſt the Doctors; nor idle, for he was hearing, asking, and anſwering Queſtions, and not according to an ordinary rate, but ſo, that it filled all that heard him with admiration: His Parents return not from <hi>Jeruſalem</hi> till the holy Duties he ended, thoſe which attend not the accompliſhment of holy Exerciſes depart with<g ref="char:EOLhyphen"/>out a bleſſing: His Mother ſhe is preſent, love to the happy Childe, and love to the holy Duty, takes away the tediouſneſs of the iourney: Chriſt after his return contents himſelf with
+<pb n="2" facs="tcp:107821:6"/>privacy, and whilſt ſo he is at quiet, Satan is not ſo buſie to aſſault him, till he be ready for the conflict, Chriſt ſtayes till he have power, and when he hath ability ſtayes for authority, runs not before he be called; and knowing that he muſt finiſh his courſe with the Baptiſm of Blood, he begins it with the Baptiſm of Water, which no ſooner done, and God doth own him for his Son, but Satan would tempt him to his ſervice, no ſooner is he out of the Water then he is in the Wilderneſs, where and when it was that the Tempter came unto him and ſaid;</p>
+            <p>The words do plainly divide themſelves into three parts.</p>
+            <list>
+               <item>1. The Perſon tempting, called here, The Tempter.</item>
+               <item>2. The Perſon tempted; Him, in the firſt verſe, <hi>Jeſus,</hi>
+               </item>
+               <item>3. The manner of his tempting, and that twofold.
+<list>
+                     <item>1. By approaching: <hi>He came to him.</hi>
+                     </item>
+                     <item>2. By expreſs words: <hi>He ſaid.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <p>In the Perſon tempting, there is three particulars.</p>
+            <list>
+               <item>1. The time, <hi>Forty dayes.</hi>
+               </item>
+               <item>2. The place, <hi>The Wilderneſſe.</hi>
+               </item>
+               <item>3. The preſent want, <hi>He was hungry.</hi>
+               </item>
+            </list>
+            <p>The time was tedious, <hi>forty dayes,</hi> and very troubleſome, a continued ſeries of temptations: The place was ſad and ſo<g ref="char:EOLhyphen"/>litary, <hi>the Wilderneſſe,</hi> and wild beaſts: His preſent want is much, <hi>he was hungry;</hi> and in this hunger, after forty dayes, does the Tempter take his opportunity, <hi>Then came unto him the Tempter,</hi> &amp;c.</p>
+            <p>The time, <hi>forty dayes.</hi>
+            </p>
+            <p>He which found our firſt Parents in P radiſe finds our Saviour <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere in the Wilderneſs: There he tempted them to eat the Fruit which was forbidden; and here he tempts our Saviour, when he hath not any thing to eat. Then the Serpent tempt<g ref="char:EOLhyphen"/>ed man by a ſubtil inſinuation to eat, that he may become as God. Here he works and tempts by neceſſity, that our Savi<g ref="char:EOLhyphen"/>our would diſtruſt God, and by providing to eat would become as the worſt of men; God there beſtowed his Image and an innocent eſtate upon <hi>Adam,</hi> which he loſt in eating; And no ſooner hath he owned the innocency of his Son in the like<g ref="char:EOLhyphen"/>neſs of a D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve,<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at 3. ulr.</note> and an expreſs approbation, but Satan tempts him by his diffidence to forfeit that title, and part with his birth <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight for a piece of bread.</p>
+            <pb facs="tcp:107821:6"/>
+            <p>Theſe forty dayes we cannot think free from fiery onſets; t<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Tempter would not looſe any time to further his deſign; <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> he directs his greateſt Ordnance againſt the weakeſt wall, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> raiſeth his ſtrongeſt battery when and where he can expect the leaſt reſiſtance, when forty dayes was done, and when he was hungry.</p>
+            <p>
+               <hi>Moſes</hi> who received the Law, <hi>Elias</hi> by whom the Law was reſtored, and Chriſt by whom the Law was fulfilled, had their faſt of forty dayes. In <hi>Moſes</hi> his firſt faſt the ſight of the glory of God was like a conſuming ſire, and the anger which he concei<g ref="char:EOLhyphen"/>ved, if it did not ſatiate,<note place="margin">Exod. 24.1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> yet did it not admir of any appe<g ref="char:EOLhyphen"/>tite to meat. And when he goes up the ſecond time, as he was not mindful of it, ſo there was no need of proviſions; if the viſion of God did before fright him, now it feaſts him, and if before he was poſſeſſed with anger, now he is repleniſhed with glory; but in both he lives the life of faith, and like one who rightly ſhadowed Chriſt, it was his meat and drink t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the Lords work. And we muſt confeſs, though want did attend <hi>Elijah,</hi> yet in his faſtings no leſſe then a miracle did feed him; the Ravens they became his Purveyours, and the Widows laſt Cake was ſuſtenance to him, and a ſtore-houſe to her ſelf, and though the threats of <hi>Jezabel</hi> makes the Prophets life as a burden to him, yet whilſt he is ſleeping,<note place="margin">1 K<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rg. 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> the Keeper of <hi>Iſrael</hi> ſlumbers not, his Angel awaketh him, gives him command to ariſe, gives him meat to enable him to that command, and in the ſtrength of that to accompliſh his journey to Mount <hi>Horeb.</hi> In that Mount where <hi>Moſes</hi> ſaw God, ſhall God find <hi>Eliah;</hi> and <hi>Moſes,</hi> and <hi>Eliah,</hi> and <hi>Chriſt,</hi> the three great Eaſters, ſhall be ſeen in Mount <hi>Tabor</hi> in his Transfiguration; yet muſt we conſider a difference in their condition, <hi>Moſes</hi> was both times on the Mount talking with God; but <hi>Chriſt</hi> is in the Valley, nay in the Wilderneſs tempted of the Devil: <hi>Moſes</hi> was on the Mount receiving Gods Commands and the Tables of ſtone, but Chriſt is in the Wilderneſs receiving Satans de<g ref="char:EOLhyphen"/>mands, that the ſtones may become bread for his table; <hi>Eli<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ah</hi> was in the Wilderneſs under the Juniper tree, and though he was hungry and thirſty, his ſoul fainting within, yet could he ſleep; but <hi>Chriſt</hi> is in the Wilderneſs, where his temptation
+<pb n="4" facs="tcp:107821:7"/>doth not admit or an intermiſſion, but the increaſe of neceſſity doth ſtrengthen the aſſault. <hi>Then came the Tempter.</hi>
+            </p>
+            <p>In remembrance of this faſt the holy practice of his deareſt Spouſe may aptly be approved, the like time of forty dayes be<g ref="char:EOLhyphen"/>ing by her ſequeſtred to abſtinence; a faſt it was for admiration not for imitation, and this commends unto our uſe the moral, not the miracle, wherein we are to abſtain <hi>a tanto,</hi> though not <hi>a toto,</hi> by abatement, but not by ablation of meat. And very ſeaſonably hath the Church appointed this Faſt, <hi>Faſſionem pre<g ref="char:EOLhyphen"/>dic<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e &amp; a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Reſucre<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nem preparare,</hi> to humble us in the ſenſe of his <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ring and ſo pr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>diet us the Paſſion,<note place="margin">Chriſt R<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>ſt Ch<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Ex<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> and that his riſing may be our only Feſtival.</p>
+            <p>Agree<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble with this is the continue practice of the Eaſtern Church, who ſolemnly obſerved this Faſt for ſix weeks before the Reſurrection: And an ingenious Pen obſerveth, that this forty dayes is attended with Chriſts forty hours or thereabouts remaining in the Sepulchre, his forty dayes converſing with his Diſciples betwixt his Ruing and Aſcenſion; all which dayes, like <hi>Jonah</hi>'s errand of forty dayes, proclaims unto us a ſitting down in ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ck<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>loath, and turning to our God by true repentance, that we may expend o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r dayes according to this happy preſi<g ref="char:EOLhyphen"/>dent in prayer and in faſting. <hi>Noltut tentari Chriſtus uſque<g ref="char:EOLhyphen"/>dum <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ejunaſſet,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d.</note> Chriſt would not be tempted before he had faſt<g ref="char:EOLhyphen"/>ed; not that he ſhould have offended without that preparation, but to teach others the beſt preparative and preſervative a<g ref="char:EOLhyphen"/>gainſt temptation; for ſeeing that <hi>Adam</hi>'s innocent eſtate could not exempt him from the Serpents cunning, nor Chriſts entire and untainted Piety could not priviledge him from the Tempter, it is our parts to arm againſt ſo feirce aſſaults, and in our f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lneſs and faſting, plenty and want, to be upon a good guard when the Tempter ſhall come unto us.</p>
+            <p>As this temptation was for forty dayes and forty n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this loſe and powerful aſſault is likely to be at the expiration<g ref="char:punc">▪</g> 
+               <hi>Achitophe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>'s adviſe to <hi>Abſalon</hi> was,<note place="margin">2 Sam. 17.2.</note> 
+               <hi>I will come upon him whilſt he is weary and weak banded.</hi> 'Tis the pollicy here of this Tempter I will fall upon him when this faſt hath produced hun<g ref="char:EOLhyphen"/>ger, skin for ſkin, what will he not do for his life? And this was his con<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ition, <hi>he was hungry.</hi>
+            </p>
+            <pb n="5" facs="tcp:107821:7"/>
+            <p>That Chriſt had the paſſions and affections of a man none which are more then brutiſh will deny, joy and ſorrow, fear and want, hunger here, and thirſt at his Paſſion; and that Satan is ſedulous and ſubtle, in baiting his books with what is moſt ta<g ref="char:EOLhyphen"/>king<g ref="char:punc">▪</g> and tendering ſuch ſupply as is moſt ſut<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>le to the tempt<g ref="char:EOLhyphen"/>eds neceſſity, is as eaſie to affirm: Chriſt is hungry what will he not do to procure meat? <hi>Jacob</hi> rather then his Sons and himſelf ſhall ſtarve will ſend them into <hi>Egypt</hi> to buy Corn and, though hardly perſwaded, parts from his <hi>Benjamin</hi> rather then their lives ſhall part from them for want of bread: <hi>David</hi> when he was hungry entred into the Houſe of God, eat of the Shew<g ref="char:EOLhyphen"/>bread, which was only for the Prieſt: <hi>Chriſt</hi> on the Sabbath pluckt the ears of Corn where was the proprieties,<note place="margin">Matth 12.</note> beſides the prophanation of the day, yet for all this blameleſs; neceſſity legitimates that act which otherwiſe was ſin<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>l, and want was the warrant for this work: And why may not his preſent hun<g ref="char:EOLhyphen"/>ger engage him to a miracle for his maintenance? He that for pleaſuring of others, manifeſting of his glory,<note place="margin">John 2.</note> and augmenting faith in others, turned water into wine, and at a Wedding, when we preſume there was not much want<g ref="char:punc">▪</g> Why may not he in the Wilderneſs, when he is hungry for refreſhment, for evi<g ref="char:EOLhyphen"/>dencing his power, confounding Satan, turn ſtones into bread? He that had compaſſion on the multitude that came from far and had not to eat, hath he no pity on himſelf, who had faſted far beyond their time in the deſert? This Tempter could an<g ref="char:EOLhyphen"/>ſwer God concerning <hi>J<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b. Doth J<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b ſerve God f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r nought?</hi> And hath God leſs care of his Son then of his ſervant?<note place="margin">Job. 1</note> muſt Chriſt ſerve him for nought? Did Chriſt ſay to his Diſciples, when he ſent them out without ſcrip or pur<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, did you lack any thing? and doth God ſend f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rts his Son into t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Deſert a<g ref="char:EOLhyphen"/>mongſt Wolves and wild be<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſts and hath nothing? <hi>Quare adduxiſti,</hi> was the peoples againſt <hi>Moſes</hi>
+            </p>
+            <p>O bleſſed <hi>Jeſu,</hi> how much rather hadſt thou ſuffer want then thy Fathers wrath, death then thy Fathers diſ<g ref="char:EOLhyphen"/>pleaſure, famiſh then offend thy God, or need of that great work thou hadſt in hand: <hi>Adam</hi> eats and ſins, bidden by Satan and forbidden by God to eat, but thou faſts and ſins not, though bidden by Satan to eat, yet forbidden by God; Thou waſt not
+<pb n="6" facs="tcp:107821:8"/>here without power to command bread, but thou art with<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> purpoſe to diſtruſt thy Father; thou waſt not without power<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> do a miracle, b t without will to gratifie Satan, and do it a<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> pleaſure: What God was pleaſed to ſay to the <hi>Jews</hi> Chriſt thought meet in effect to ſay unto Satan, If I were hungry I will not tell thee, though thou uſurps it,<note place="margin">Pſa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 50.</note> yet the World is mine and the fulneſs thereof; I will offer thankſgiving and pay my vows to the moſt High; bread is not that only which I depend upon, that Providence which hath kept me forty dayes will not let me periſh man live<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h not by bread only, there is another Ma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m which it left for relief, and that is the Word of God, that is the childrens bread, O ſeed us with theſe crums and we ſhall not periſh.</p>
+            <p>And is this nothing unto us that paſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by? Yes it is, ſee and c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er how anſwerable Chriſts obedience is to our offence; <hi>Adam</hi> caſt behind him the Commandment of God, and having the Apple before his eyes he eat; Chriſt he caſts the temptation behind him, and having the fear of God before his eyes he fa<g ref="char:EOLhyphen"/>ſted, but anſwers for that ſin in faſting which was committed by eating.</p>
+            <p>This Tempter, like a cunning Broaker, will not that his Cu<g ref="char:EOLhyphen"/>ſtomer ſhall want any Commodity, his ſtore-houſe muſt furniſh at the le<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt promiſe him what he moſt deſireth; he wants not his Factors and active Agents to drive on his deſign and bring the dece<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ful heart within his books; if thou art low he hath a way to promiſe riches and wants not a Ballade to promote thee unto <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>no<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r; if poor, he will tender thee a ſupply, and though he can challenge nothing but torments as his due, yet <hi>Omnia ha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> dubitibi</hi> is as ready with him to offer, as with our depraved natures to accept? God tells thee, <hi>Thou ſhalt have no other Gods;</hi> if thou beeſt weary of thy ſubjection unto him, Satan h<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> a Serpent can <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ll thee how to be exempted from thy obe<g ref="char:EOLhyphen"/>dience inſtead of thy ſubmiſſion to his Commands, <hi>Eritis ſic<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i,</hi> you ſhall be as gods.</p>
+            <p>G<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d ſayes, <hi>Thou ſhalt not make to thy ſelf any graven Image,</hi> but the Tempter tells thee of a greater liberty, If God from ab<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve do not condeſcend to thy deſires, attend thy expectati<g ref="char:EOLhyphen"/>ons; if <hi>Moſes</hi> ſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y but in the Mount, Satan hath his ſeaſon in
+<pb n="7" facs="tcp:107821:8"/>the Valley; <hi>
+                  <g ref="char:V">Ʋ</g>p let us make our ſelves Gods which ſhall go be<g ref="char:EOLhyphen"/>fore us; we know not what is become of</hi> Moſes,<note place="margin">Exod. 32.</note> 
+               <hi>let us make g<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ds will go with us:</hi> Thus Satan frames gods according to their minds, and their minds according to their gods.</p>
+            <p>God ſayes,<note place="margin">Exod. 5.2.</note> 
+               <hi>Thou ſhalt not take the Name of the Lord thy God in vain,</hi> but Satan can afford thee a releaſe of this ſeve<g ref="char:EOLhyphen"/>rity, the Tempter wanteth not his <hi>Pharaohs, Who is the Lord that I ſhould obey his voice, and what is his Name that I ſhould reverence it?</hi> He wants not his <hi>Rab<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hakeh</hi> to belch out ugly language, <hi>What is the Lord,</hi>
+               <note place="margin">Iſai. 36.4.</note> 
+               <hi>or what is this confidence whe<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>in thou truſteſt?</hi> This Tempter will ſuggeſt unto thee to take his Name in thy mouth, ſo do thoſe ſervants who draw near to God with their lips, but their hearts are far from him; and Satan hath other ſervants, who have his Name to<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ten in their mouths, becauſe it is to make up their vanity; his Name is uſed, not to call upon him for a bleſſing, but is uſed in cur<g ref="char:EOLhyphen"/>ſing, ſuch Oaths as the horridneſs thereof commands me to re<g ref="char:EOLhyphen"/>buke, though modeſty forbids me to mention, madneſs of men, nay monſters rather: Was it <hi>Thomas</hi> his weakneſs that he muſt have his fingers in his Wounds, and muſt it be the ſinful wickedneſs of theſe wretches that they muſt have his Wounds in their mouths; let them beware, that Fountain which was opened for uncleanneſs, may that upon their filthineſs. God ſayes, <hi>Swear not at all, let your communication be yea, yea, and nay, nay,</hi> that is, make not an uſe of Oathes in your diſcourſe, mingle not your conference with them, ſwear not unleſs where and when controverſies are to be decided, and right to be evi<g ref="char:EOLhyphen"/>denced and vindicated by your ſolemn Oaths: but Satan will not have his gallants to be thus tongue-tyed, their Tongues are their own, who ſhall controul them: yea and nay are ſyl<g ref="char:EOLhyphen"/>lables which ſerve not their turns, ſuch morſel; of words will not fit their mouths, tearing of his Heart renewing of his Wounds, piercing of his Soul, p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oph<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing of his Majeſty, en<g ref="char:EOLhyphen"/>gaging of confuſion, calling dawn daman<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>n, and it Gods Juſtice were ready to anſwer our deſires and deſerts, confirm<g ref="char:EOLhyphen"/>ing it, are only ſuch terms as do them ſervice; their curſes muſt be like their clothes, <hi>Alamode</hi> and eaſt in the lateſt mold; this temptation hath been too taking, under which the Land
+<pb n="8" facs="tcp:107821:9"/>mourneth, every pariſh, nay this place, where I forbear to perſo<g ref="char:EOLhyphen"/>nate any, but ſhould I forbear to rebuke all the ſtones would ſpeak, doth grievouſly lye under this temptation; the Lord reform them, and caſt out theſe Devils of drunkenneſs and ſwearing by faſting and by prayer, for, <hi>Hoc genus Damomi, &amp;c.</hi> theſe kind of Devils is not otherwiſe to be ejected.</p>
+            <p>God commands thee to remember the Sabbath in keeping it holy; but the Tempter will releaſe thee from the ſeverity of this Precept; ſome he tempts them to ſo much ſuperſtition, that they will not do good, nor have good done on that day; if Chriſt cure on that day the people murmure, and that which is the perfection of the Goſpel muſt be accounted the breach of the Law. <hi>It is not lawfull to beal on the Sabbath-day;</hi> nay ſuch ſuperſtitious obſervers may be very well obſerved to be deri<g ref="char:EOLhyphen"/>ved from the family of <hi>Salomon</hi> that <hi>Anglo Judamy,</hi> who fal<g ref="char:EOLhyphen"/>ling into a ditch on the Sabbath refuſed to <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> taken out,</p>
+            <q>Sabbata noſtra colo de <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re ſurgere nolo.</q>
+            <p>which occaſioned the Chriſtian that came by on the Sunday to anſwer him in his own kind;</p>
+            <q>Sabbata noſtra quidem Sal<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>on celibrabis ibidem.</q>
+            <p>Thus ſome will not heal others, n<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be healed, on the Sabbath, ſo let the ſuperſtitious periſh: In our times we are more un<g ref="char:EOLhyphen"/>der the temptation of prophaneſs then ſuperſtitious obſervati<g ref="char:EOLhyphen"/>on. God commands holy Duties and commends them: Satan in<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inuates, what doth it avail to walk mournfully all the day long? and what profit have ye that ye have ſerved the Lord? thus <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Tempter. God requires that yo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhall account his Sabbath a delight; Satan tempts you to repu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e it a burden. God requires that in it you will call for a bleſſing on your weeks-work; Satan he tempts you to account this work a we<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rineſs, this ſervice a hinderance, <hi>When will the Sabbath be gone that we may ſet f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rth <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heat?</hi> God would have you to obſerve it as a reſt from your la<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our, from your ſin: Satan he tells you it is a ceaſing from you lucre, and in it
+<pb n="7" facs="tcp:107821:9"/>tempts you to ſin: This is no<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all, God would have you to his Church, the Devil would keep you in his Chappel, becauſe it is a day of reſt from the labour of the body, he muſt have it a reſt from the ſervice of the ſoul; <hi>Thou ſhalt keep my Sabbaths, and reverence my Sanctuary:</hi> A holy time the Sabbath,<note place="margin">Levit. 26.2.</note> and a holy place the Sanctuary, and holy duties reverence to be uſed. Satan tempts thee againſt the time, <hi>Every day is a Sabbath;</hi> but never a day is kept holy: againſt the place he wants not Factors of <hi>Jeroboam</hi>'s family, <hi>It is too much for you to go up to Jeruſalem to the publick place of worſhip, behold nearer gods;</hi>
+               <note place="margin">1 King 12.28.</note> 
+               <hi>and he ſet the one in</hi> Dan <hi>and the other in</hi> Bethel: Why ſhould we go to Gods place, let God come to our place. What <hi>Corah</hi> ſaid of the perſons Satan ſayes of the places, <hi>You take too much upon you ſeeing all the places are holy:</hi> I ſpeak not againſt private duties, prayer in families, but I would not have <hi>Mar<g ref="char:EOLhyphen"/>tha</hi> to juſtle out <hi>Mary,</hi> many cumbers, and troubles, and in<g ref="char:EOLhyphen"/>ventions to take place of the one thing which <hi>David</hi> deſired, of that better part which <hi>Mary</hi> choſe; I would not have them to look to their own and let Gods Houſe lye waſte: What as the Tribes ſaid concerning their Brother <hi>Benjamin,</hi> I ſay with ſorrow for theſe ſeparating Brethren, <hi>O Lord, how comes it to paſſe that one Tribe this day is wanting in Iſrael?</hi> How comes it to paſſe, that one Tribe, one Family, one Perſon, is this day wanting in thy Temple? It was <hi>David</hi>'s joy, and let it be ours, to go up to the Temple of the Lord but admit we come to the Sanctuary, Satan hath yet more baits to catch ſimple ſouls into his drag-net; <hi>Abraham</hi> he prepares to ſacrifice, but Fowles lights upon it; we prepare to ſacrifice, but Satan hath Fowles ready to fall upon it; when the heart is unprepared, when the affections are indiſpoſed, ſuſpect a Fowl upon the ſacrifice. God commands <hi>Nehemiah</hi> to build up the wall, that there may be no breaches; but Satan wants not a <hi>Sanballet</hi> to ſend an errand to obſtruct the work, <hi>Come let us meet together,</hi> let the work alone:<note place="margin">Nehem. 6.3.</note> 
+               <hi>Nehemiah</hi> knew it to be a temptation replyes like a Prophet, <hi>I am doing of a great work, I cannot come down, why ſhall I leave the work and let it ceaſe whilſt I come down to you?</hi> It is the obſervation of an ancient Writer, that Satan doth eſpecially buſie himſelf at theſe times.</p>
+            <pb n="10" facs="tcp:107821:10"/>
+            <q>
+               <l>In principio bonae actionis ne ſit.<note place="margin">Hugo Car.</note>
+               </l>
+               <l>In medio ut obſit</l>
+               <l>In fine bonae actionis ne proſit.</l>
+            </q>
+            <p>That this is Divinity Chriſt his temptations will atteſt it, and I think our own experience will confirm it. What Saint <hi>Paul</hi> ſayes of Afflictions, Chriſt and Chriſtians may ſay of Tempta<g ref="char:EOLhyphen"/>tions, <hi>me manent,</hi> They wait for me: Chriſt, though formerly in the world, is but entered into the work of our Redemption, publickly appearing to the world for our welfares, newly bapti<g ref="char:EOLhyphen"/>zed into obedience, and acting what God had ſent him for. <hi>David</hi> had a ſecurity in the ſheep-coats, though his flocks, yet himſelf was not aſſaulted: but when he was ſent by his father to viſit his brethren, he meets with the inſolencies of a great <hi>Goliah,</hi> he is in the publick Court, entertains the Challenge, hearing the promiſe made, <hi>That whoſoever killeth the Philiſtine the King will enrich him, will give him his Daughter, and make his Fathers houſe free in Iſrael.</hi>
+               <note place="margin">1 Sam. 17.25.</note> He is now not only tempt<g ref="char:EOLhyphen"/>ed, but his weakneſs is contemned: a youth, a ſtripling, our better <hi>David</hi> in his privacy and retirement we find not to be tempted; but now that he is ſent out to gather his loſt b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ethren, now that he appears openly, and hath received an aſſurance, that he that overcomes the ſpiritual <hi>Goliah,</hi> the King will enrich him, giving him his Daughter the Church, making his Kindred free, which noteth our freedome through Chriſt our Conquerour <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he is unprovidedly aſſaulted by a ſtrong Phi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſtine, and in the beginning of his work, when want is upon him is tempted by him whoſe weapons threaten ruine, and pro<g ref="char:EOLhyphen"/>miſe victory to the owner, <hi>Thus came the Tempter,</hi> &amp;c.</p>
+            <p>Secondly, Though he be diſappointed in the firſt deſign he m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y withdraw, but he will not wholly deſiſt the enterpriſe; he leaves him for a ſeaſon;<note place="margin">Luke 4.13.</note> he ſet upon him without meat, and he will endeavour to find him without miniſtration, to come upon him when the Angel is gone from him, and this <hi>ut obſit;</hi> Chriſts life was ſaid, and truly, to be <hi>continuata paſſio</hi> as well it may be <hi>templatio;</hi> for in the midſt of this work his Diſciple <hi>Peter</hi> ſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eth of Satan, and would withdraw his Maſter from his buſineſs: had the Son of God gone ten degrees backward he had ſpo led all; had he ſtood ſtill, <hi>Non progredi eſt regredi,</hi>
+               <pb facs="tcp:107821:10"/>he had hindered the work of our reſtoration; but he rejoyced to run his courſe, and therefore ſpeaks a defiance to all delay, rebukes <hi>Peter, Get thee behind me Satan.</hi>
+            </p>
+            <p>Third<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, To c<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th him in his words was the Phariſees deſign, and at laſt to catch him in their hands, in the end of his work <hi>Ne proſit.</hi>
+            </p>
+            <p>At his end how ſtrongly is he tempted, betrayed by his Di<g ref="char:EOLhyphen"/>ſciple, apprehended by the multitude, forſaken by his followers, arraigned, accuſed, exclaimed againſt, mocked, ſtruck, blind<g ref="char:EOLhyphen"/>folded, and derided in the Tempters language, <hi>If thou be the Chriſt propheſie who is this that ſmote thee;</hi> either muſt he chuſe to ſubmit to their temptation, or it muſt paſſe, <hi>pro confeſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> he was not the choſen of God. Miracles he did in the time of his trouble, his enemies fall backward, and yet can theſe blinded <hi>Jews</hi> go forward to condemn him; he heals <hi>Malchus</hi> his eat, and yet they kill their Phyſitian: Nay his temptation is yet ſtronger, one of the Malefactors in the ſame condemnation with him raileth on him, with an <hi>If,</hi> the language of the Tempter, <hi>If thou be Chriſt ſave thy ſelf and us.</hi>
+            </p>
+            <p>O bleſſed Jeſu, if thou at the inſtance of thy Tempters hadſt ſaved thy ſelf from temporal, how hadſt thou ſaved us from eternal death: We muſt not forget his Agony, where thoſe <hi>grumae ſanguinis,</hi> that bloody ſweat, that exceeding fear, that parching thirſt, but that bitter cup, that ſenſe of his Fathers de<g ref="char:EOLhyphen"/>ſertion was upon him, which made him with his precious blood to pour out cryes and prayers, and all this doth not expreſs a tythe of his temptations whilſt this work was a finiſhing. Thus in the beginning, progreſs and perfecting the work of our re<g ref="char:EOLhyphen"/>concilement, <hi>the Tempter came unto him.</hi> If Satan be thus buſie at our holy works, we muſt likewiſe expect him on Gods holy Day, ſet apart for performance of holy duties.</p>
+            <p>The laſt Lords day afforded us a ſad example, whilſt we were tendering of an Evening-ſacrifice, our ſacrifice was mingled with blood: The Word of God read, and the work of Satan under the ſame roof, our eyes and ears were witneſſes; and when the occaſion of this diſmal act was required, what return could we expect? Was it blood that might have required blood? Was it the murdering of another which provoked
+<pb n="12" facs="tcp:107821:11"/>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>m to his own murder? No, but it was a due denyed to God<g ref="char:punc">▪</g> the breach of his Sabbath, turning his Grace into lewdneſs, the day of prayer and devotion into playing and drunkenneſs; this he did againſt God on his day, and this doth the Devil a<g ref="char:EOLhyphen"/>gainſt him on the Lords day: this was the day when he ſhould have drawn near to God, but withdrawing himſelf from God, Satan draws near to him, into him, and he that could not keep a Sabbath cannot have a reſt, but muſt attempt to be his own m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rderer. This example ſhould ſerve to imprint the firſt line of this Commandement in all our hearts, <hi>Remember to keep ho<g ref="char:EOLhyphen"/>ly the Sabbath day.</hi>
+            </p>
+            <p>And in the performance of the duties relating to the Sab<g ref="char:EOLhyphen"/>bath let not thy ſervices be cold; coldneſs and luke warmneſs are not reliſhing; be zealous is Gods expectance, yet let thy <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eal have knowledge, otherwiſe it will but be madneſs, and let thy knowledge have zeal, otherwiſe it will be deadneſs; let thy ſervice be entire, God loves not a half ſervice, a half heart is no heart; <hi>Aut totum honora aut totum abjice,</hi> God loves not a ſleepy ſervice;<note place="margin">N. <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> z.</note> 
+               <hi>Awake thou that ſleepeſt and call upon thy God:</hi> God loves not an unmannerly ſervice, he is not proud, he delights that thou ſhouldſt walk with him; but let not con<g ref="char:EOLhyphen"/>diſcenſion lift up thy heart, for he requires thou ſhouldſt walk humbly with him:<note place="margin">M<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> God would not have his Spouſe to be gaw<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y ga<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſh and painted, but he loves to have her decent, not in a new <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hion, but in a Matron-like and ancient order: He that will have her glorious within, will not have her ſluttiſh without;<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>6.14.</note> 
+               <hi>She ſhall be brought to the King in a rayment of needle-work,</hi> not masked as to externals, but one part of de<g ref="char:EOLhyphen"/>cency joyned and woven with another.</p>
+            <p>How dreadful is thy dwelling-place, O God, how carefully muſt we enter thy preſence Chamber? How muſt we long to hear thy Will imparted to us? How muſt we fear to impart our wants unto thee? If our Petition be rude, how can we ex<g ref="char:EOLhyphen"/>pect a gracious reference? How ſhall not we deport our ſelves with reverence when we have to deal with a holy God in a holy place, on a holy day, to do a holy duty, knowing that i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> theſe duties the Tempter comes unto us, <hi>&amp;c.</hi>
+            </p>
+            <p>God ſayes, <hi>Honour thy Father and thy Mother;</hi> but <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="13" facs="tcp:107821:11"/>Tempter ran from the mouth of Chriſt; quote Scripture and acquit thee from this obligation: <hi>Mary</hi> in the mouth of her Son is no more then <hi>Woman,</hi> and that not with obedience but objurgation, <hi>What have I to do with thee?</hi>
+               <note place="margin">Jo. 2.4.</note> What ſay we to this bait? doth he who teacheth this Commandment diſdain his Mother? The giver of the Precept is he a preſident for the breach?</p>
+            <p>Let Reverend Biſhop <hi>Hall</hi> anſwer this Objection;<note place="margin">Biſh. <hi>Hall.</hi>
+               </note> In all bodily actions his ſtile was Mother; in ſpiritual and heavenly Woman; ſhe was the Mother of his fleſh, his Deity was eter<g ref="char:EOLhyphen"/>nal; that part which he took from her ſhall obſerve her, ſhe muſt obſerve that nature which was above her; as that nature made him a Son and Man, ſo that nature made her both a Wo<g ref="char:EOLhyphen"/>man and a Mother: God as thy heavenly Father calls for fear, the King as <hi>Pater patriae</hi> calls for honour; <hi>Fear God and bo<g ref="char:EOLhyphen"/>nour the King;</hi> the <hi>Conjunction</hi> couples them; <hi>Whom God hath put together let no man put aſunder.</hi> The ſpiritual Fathers, ſo ſayes Saint <hi>Paul, Vos genui in Evangelio, I have begotten you in the Goſpel;</hi> claim an honour, let them have a double portion of the ſpirit of your honour: Thy natural Father calls or obedience; Can the Mother forget her affection? Shall the Child forget his duty? Can the Parent forget his care? Shall the Child not crave a bleſſing? <hi>Bleſſeme, even me alſo my Father.</hi>
+            </p>
+            <p>And now am I come to that great temptation, which hath been and is too common in our bloody dayes; God ſayes, <hi>Thou ſhalt do no murder.</hi> Thou ſhalt not ſhed the blood of thy brother under the Goſpel, who might not eat the blood of the beaſt under the Law. The Tempter comes, yea, hath God ſaid ſo? and hath no ſmall ſtore of provocations and pretences to the breach of this Commandement: The firſt and moſt unfortunate quarrel was the Tempters, when in Paradiſe he prevailed with our firſt Parents to rebel againſt God; this quarrel, from the mouth of God that ſharp-edged ſword, did produce no leſſe then death, <hi>Morte morieris;</hi> in this Duel Man, being inſtigated by the Tempter, loſt the field, and in this re<g ref="char:EOLhyphen"/>bellion was the whole poſterity tainted, and without the ſatis<g ref="char:EOLhyphen"/>faction of that bleſſed and powerful ſecond <hi>Adam</hi> wholly and
+<pb n="14" facs="tcp:107821:12"/>finally deſtroyed; and as if t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ls had not been a too ſufficient witneſs of his malice againſt man: The Tempter ſtarteth an<g ref="char:EOLhyphen"/>other quarell betwixt two brothers when there was none to reſcue, Here was the firſt <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nhappy field wherein <hi>Cain</hi> ſpills the blood of his brother <hi>Abel,</hi> provoked by this grand mur<g ref="char:EOLhyphen"/>derer, becauſe his brothers ſacrifice was better accepted, he cannot reſt till the innocent blood of his brother be ſacrificed to his malice, <hi>Cain</hi> made himſelf drunk with revenge, and now that deadly draught doth ſo diſtract him, that he proceedeth to diſpair, and now his guilt as clamorous as the act makes him cry out, <hi>My ſin is greater then can be pardoned,</hi> paſſing from the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in againſt a finite creature, to ſinne againſt the inexhauſted mercy of an infinite and eternal Majeſty; Thus hell tempting him <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o this hainous act, bequeaths its horror to him, which whatſoever way he looks ſtill ſtands before him.</p>
+            <p>And ſtill this Tempter, as if blood were his buſineſs, conti<g ref="char:EOLhyphen"/>nueth his courſe he hath now charactered <hi>Cain</hi> in the chequer<g ref="char:EOLhyphen"/>ed colours red and black, blood and deſpaire; his next piece muſt be to ſet a difference betwixt <hi>Jacob</hi> and <hi>Eſau,</hi> theſe ſtruggling in the womb muſt not be quiet in the world; That the Devil therefore may become a perfect dueller, he without doubt ap<g ref="char:EOLhyphen"/>points the place in <hi>Cain,</hi> the field; now the time in <hi>Eſau.</hi> The day of mourning for his Father to be the day of murdering his Brother, which purpoſed and heart-murder being prevented by a great providence, as if the Tempter were ingaged to pro<g ref="char:EOLhyphen"/>ſecute in the defence of his ſervant <hi>Eſau,</hi> he ſowes a diſſent be<g ref="char:EOLhyphen"/>twixt the children of <hi>Jacob,</hi> and patches a conſpiracy amongſt the brethren to kill <hi>Joſeph,</hi> ſtill more blood? what pretence can this furious fiend have for his acting? horrid enemy! how coul<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt thou deſign a duel betwixt God and man? the Potter and the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lay? How durſt thou attempt this affront againſt the Maker of mankind? How canſt thou gloſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e or any way excuſe the lifting up <hi>Cains</hi> hand againſt his brother? <hi>Eſaus</hi> heart a<g ref="char:EOLhyphen"/>gainſt <hi>Jacob?</hi> and all the brethrens voices againſt <hi>Joſeph</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thou <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſt out rebellion, and interlines reaſons thou bl<gap reason="illegible" resp="#UOM" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> out di<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>obedience towards God, and ſetteſt down advan<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> into man, <hi>Eat,</hi> ſays God, <hi>and thou ſhalt die, Eat,</hi> ſaies S<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and thou ſhalt be as Gods, which do not die: Thou blot<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <pb n="15" facs="tcp:107821:12"/>murder, and writeſt in <hi>Cains</hi> neare a copy of diſcretion, juſtice and of policy: There's none ſtands in comperition with the onely <hi>Abel</hi> what obſtruction to the acceptance of my offering? why doſt thou not remove him and then thy tender will be re<g ref="char:EOLhyphen"/>ceived; Beſotted <hi>Cain!</hi> couldſt thou be tempted to believe that the blood in the field ſmelled ſweeter then the fruit of the ground? Thou blotteſt out murder in <hi>Eſau,</hi> and tells him it is juſtice; Has not <hi>Jacob</hi> ſupplanted thee in thy birth right, and in thy bleſſing? what's thy life unto thee if he lives he will a<g ref="char:EOLhyphen"/>gain diſſemble? is it not juſtice to ſtop his breath who ſtole thy bleſſing (how can it be counted murd nor revenge, or con<g ref="char:EOLhyphen"/>ſtrued cruelty to put a period to his dayes, who hath ſupplant<g ref="char:EOLhyphen"/>ed thee in thy enjoyments? Thou blo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>teſt out murder in the falſe brethren, and though in Letters of blood thou writeſt Rea<g ref="char:EOLhyphen"/>ſon, great cauſe why <hi>Joſeph</hi> ſhould be ſlain, firſt he is a tel<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ale,<note place="margin">Gen. 37.</note> he pries into our actions, and gives an evil report to our father: then though a youngling he wears the only livery of our fathers favour, as if we were not his children, or it ſo that we were caſt off; next the lad makes bad uſe of that favour, it makes him inſolent; the dearneſs of our father doth di<g ref="char:EOLhyphen"/>ſtract him, pride ſwells him and makes him burſt out into diſ<g ref="char:EOLhyphen"/>dainful and undutiful language: He dreams, and not only ſo, but ſayes it waking, that be ſhall have dominion over us; A ſon to rule over his father, where is nature? where is grace? is this the requital? hath <hi>Jacob</hi> beſtowed a coat upon <hi>Joſeph</hi> to go naked himſelf? a brother, and a younger brother to rule over us his elder brethren, where is nature? where's affection? Though he come to ſee us, it is but to be ray us; though he hath taken this journy, it is but to return our evil report, <hi>Come therefore and let us kill him and let his blood be charged in the ſalvage beaſts,</hi> wil<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e creatures! bruits and without under<g ref="char:EOLhyphen"/>ſtanding, though Satan hath informed you, his ſub<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ilty hath tempted you, yet <hi>Joſeph</hi> doth live, <hi>Joſeph</hi> muſt reign over you, your eyes ſhall ſee it, and your hearts ſhall enforce your tongues to confeſs your bloody act, your guilt,<note place="margin">Gen. 4.</note> and his inno<g ref="char:EOLhyphen"/>cency: Thus did the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>empter move the Jews to kill our bet<g ref="char:EOLhyphen"/>ter <hi>Joſeph,</hi> but in deſpight of his and their malice it is our joy, <hi>Joſeph, Jeſus</hi> is yet alive and triumphs.</p>
+            <pb n="16" facs="tcp:107821:13"/>
+            <p>But though this was of old, and the Tempter might preveſrie in thoſe times yet can it be that any ſuch temptation ſhould take place in our century; whoſe eyes do not drop a tear, nay, whoſe hearts do not bleed to hear our <hi>Rachels</hi> weeping for their children, and cannot be comforted becauſe they are not; War hath of late been as a paſtime, we have lately lived as if <hi>Abner</hi> and <hi>Joab</hi> had been among us; <hi>Come let the young men play before us:</hi>
+               <note place="margin">2 Sam. 2.14.16.</note> 
+               <hi>Each caught his fellow by the head, thruſt him thorow with his ſword, they fell together,</hi> this Tragick play de<g ref="char:EOLhyphen"/>ſerves a memory, <hi>and the field is called Helkath hazzurim, The field of ſtrong men:</hi> ſurely the ſtrength of our tranſgreſſi<g ref="char:EOLhyphen"/>on hath ſlain the ſtrength of our Nation, <hi>Quis legit haec,</hi> who reads theſe red lines running ſo lately and drawn amongſt us, and receives temptations to bloudſhed.</p>
+            <p>This crafty Serpent can yet skin over theſe wounds, and mitigate the ſting of theſe complaints; the commonneſſe and ſeeming advantages, the preſent ſatisfactions, are not the leaſt and meaneſt of the baits. <hi>Abimilech</hi> forgets the murder of his brethren for a Kingdome; he hath ſo much thought of what he would have, that he forgets what he doth to obtain it; the end makes him forget the act: O <hi>Abimelech,</hi> thou layeſt the ſixty nine brethrens blood upon a ſtone to gain a Crown, which though upon thy head is not armour enough againſt one ſtone by a weak Woman, but from the powerful hand of Hea<g ref="char:EOLhyphen"/>ven.</p>
+            <p>Rebellious <hi>Abſalon,</hi> thou forgetteſt thy duty towards <hi>David,</hi> envies him as King, for a Crown forgoes thy Father, ſuffers thy ſelf to be tempted, and tempts others to the exceſs of ſinfulneſs, goes up to thy Fathers Concubines, makes thy ſelf odious in the ſight of Heaven and Earth, all this for a Crown, whilſt that giddy head ſhall only live for thy ſhame and puniſhment, and lives to learn thee, that a Tree is fitter then a Crown for thy treachery.</p>
+            <p>Sull n <hi>Ahab.</hi> can the ſight and the unwarranted deſire of thy Neighbours Vineyard make thee forget his murder? Who hath tempted thee? Is not thy ſubjects blood <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>earer then his field? Is not the welfare of his perſon more to thee then his poſſeſſion? Haſt thou not learned to know, that a good Kings heart cannot
+<pb n="17" facs="tcp:107821:13"/>but bleed in the loſſe and ſlaughter of a ſubject? He cannot but bleed with them that bleed, ſuffer with them that ſ<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>er. Thou and the Tempters Minion ſhall know, that you ſhall not be priviledged from your ſhares in this deſtruction.</p>
+            <p>Let us come further: Blind-folded <hi>Jews,</hi> who hath tempted and bewitched you to kill the Lord of life? Can you forget his Miracles, the blind ſee, the deaf hear, the dumb ſpeak, the Le<g ref="char:EOLhyphen"/>pers are cleanſed, the dead are raiſed, and will not yet your ſouls be ſubject to his Scepter? what profit can you propoſe to your ſelves and your poſterities by his death? what evil do you find in him? for which of his works of wonder do you kill him? Satan hath ſeared their conſciences, <hi>Let us kill him,</hi> not one check but an encouragement, <hi>the inheritance will be ours.</hi>
+            </p>
+            <p>Deluded <hi>Herod,</hi> how hath the Devil tempted thee to the murder <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a Man who endeavoured thy ſalvation? Art thou become his enemy becauſe he hath told the truth? muſt he be expoſed to the ſword becauſe he hath opened his mouth againſt thy ſin? ſhall the Devil firſt tempt thee to act filthineſs with thy brothers wife, then draw a raſh and unadviſed oath from thee, to grant whatſoever the Strumper requires? and muſt thou now to make good thy bad oath murder a good man?<note place="margin">Matth. 14.9.</note> can the Tempter make thee mindful of thy oath, and forgetful of thy murther? Much better hadſt thou bro<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k thy promiſe then have ſlain thy Prophet: muſt thy birth needs be his dying day? is this the glory thou giveſt to Chriſt for being born, to murder him who was the fore-runner of Chriſt born? Conſider how the Tempter deals with them, with you, where there is murder he pretends Juſtice, where there is murder he pleads advan<g ref="char:EOLhyphen"/>tage: Here for the killing <hi>John</hi> he pleads the neceſſity of performing his promiſe, he is prompted to it for the compa<g ref="char:EOLhyphen"/>nies ſake, where he ought to have forborn it for conſcience ſake.</p>
+            <p>Yet a little further; the Devil doth skin ever this wound, let us launce it to the bottome; God ſayes, <hi>Thou ſhalt not kill;</hi> Satan ſayes, (for in plain truth it is he) it is againſt thy ho<g ref="char:EOLhyphen"/>nour to paſſe by an injury unrevenged: Grant that thou worſt injured, ſhall God forgive ſins, and thou not forgive errors?
+<pb n="18" facs="tcp:107821:14"/>What a thing is this b<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ble o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> honour, that cannot be main<g ref="char:EOLhyphen"/>tained but by diſhonouring God defacing his Image wounding thy ſoul, and without Gods great mercy deſtroying and damn<g ref="char:EOLhyphen"/>ing bo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y and ſoul. But all this is againſt killing of another; does he then paſſe by or priviledge the killing of thy ſelf? <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>very temptation thou entertaineſt is a wound, <hi>Peceata ſunt t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tidem vulnera,</hi> ſins are ſo many wounds to Chriſt, to thy ſoul, makes him bleed afreſh, kills thy ſoul without found re<g ref="char:EOLhyphen"/>pentance: <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>very man in acting wickedneſs layes violent hands upon himſelf, like <hi>Baal</hi>'s Prieſts, cuts, launces and wounds himſelf. Think not then, he that is angry, if thy hand be lifted up againſt others, will not be offended if thou lifteſt thy hand againſt thy ſelf.</p>
+            <p>It was a bad ſign <hi>Achitophel</hi> had not ordered his houſe aright when he hanged himſelf: We muſt have care to diſpoſe <hi>domum intertorum,</hi> and <hi>domum exteriorum,</hi> thy inward and outward ſtare: <hi>Achitophel</hi> might diſtribute his goods, I doubt he did not diſpoſe his ſoul; he might bequeath his goods to the world, not give his ſoul to God: What if his counſel was not taken, muſt therefore this deſperate courſe be taken? O the Tempters cunning! Firſt, it was he that bids him give <hi>Abſalon</hi> bad ad<g ref="char:EOLhyphen"/>vi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, now it is he that gives <hi>Achitophel</hi> worſe counſel; hadſt thou kept cloſe to thy God in Heaven, then hadſt thou not for<g ref="char:EOLhyphen"/>ſaken thy God, I mean the King upon earth; hadſt thou con<g ref="char:EOLhyphen"/>tinued loyal to him thou mighteſt have lived as an Oracle, and died as a Saint; but now rebelling, <hi>Quem Deus vult perdere dement at trius,</hi> thy wiſdome is become fooliſhneſs, thy hand which was againſt thy King is now againſt thy ſelf, thou liveſt a Rebel, and dies a Reprobate: ſo let the enemies of my Lord the King periſh.</p>
+            <p>Monſter of men, accurſed <hi>Judas,</hi> ſon of perdition, it was Satan came to Chriſt, but into thee and made thee go out from, thy Maſter; How waſt thou guilty of betraying thy Maſter and ca<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt be innocent in murdering thy ſelf? The Pens of Angels cannot write thy impiety. A Diſciple one which ſaw Chriſt, which the Fathers longed for; one who heard Chriſt, with whom was the Words of Life; one which knew Chriſt, whom to know was life eternal if rightly known; one which
+<pb n="19" facs="tcp:107821:14"/>was intruſted by Chriſt with what he had; How hath the Tempter fool'd thee? A little money becomes thy maſter; and at laſt the fact is ſo ugly preſented to thee, to thy conſci<g ref="char:EOLhyphen"/>ence, that, as if thou wert unworthy of anothers hand, thou be<g ref="char:EOLhyphen"/>comes thy own Executioner: <hi>Thus comes the Tempter, &amp;c.</hi>
+            </p>
+            <p>Neither doth he want fig-leaves to hide the breach of other Commandements, let him patch them they are but fig-leaves, the eye of God can eaſily look thorow them: If God ſayes, <hi>Thou ſhalt not commit aduliery: Thou ſhalt not ſteal:</hi> Satan who dares appear amongſt the Children of God to tempt <hi>Job,</hi> and here dares aſſault Chriſt, can preſent <hi>David</hi> with a <hi>Bath<g ref="char:EOLhyphen"/>ſheba,</hi> and with her a way to cover the tranſgreſſion: <hi>Uriah</hi> muſt be ſent for home, invited, encouraged to her bed to ſmother their unlawful dalliance: when that leaf will not do, another muſt be applied, drunkenneſs muſt be added, that may prevail with <hi>
+                  <g ref="char:V">Ʋ</g>riah</hi> to do he knows not what: when this will not ſerve, <hi>Uriah</hi> muſt be ſent away recompenced, with the tru<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of a Letter, as he conceives: This proves a fatal order, the meſſage of his own mortality; <hi>Place him in the front</hi> (the place of perillous honour) but leave him alone in the v<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, forlorn, void of aid, for fear of his evaſion, ſo ſhall he not live to return, not return to know his Wifes ſin and his own ſorrow. <hi>David</hi> a King, a Prieſt, a Prophet, yet under his ſinful paſſions blinded in iniquity; to what purpoſe doſt thou ſlay thy loyal ſubject, that prizes the event of thy warrs before the joyes of wedlock? canſt thou by this means maſque it? No, the blood of thy ſubject cryes in the ears of God, in the ear of another Prophet, thou canſt not be at quiet till thou haſt condemned thy ſelf in a Parable, and afterwards becomes the moral of that hiſtory, and notwithſtanding all theſe vizards acknowledge thy ſin, ſhame and ſorrow.</p>
+            <p>Unhappy <hi>Achan,</hi> the Tempter brings thee to an accurſed thing; unhappy to <hi>Iſrael,</hi> who cannot ſtand before the enemy; unhappy to thy ſelf, thou truſteſt this betrayer: Satan is a bad Secretary, he bids thee hide the Golden Wedge<g ref="char:punc">▪</g> the Garment, in the ground; what ground is this for thy ſecurity? He that can cauſe the earth to open upon <hi>Corah</hi> to his deſtruction, cannot he cauſe the ground to open for the diſcovery of <hi>Achan's</hi> fact;
+<pb n="20" facs="tcp:107821:15"/>a l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t ſhall do it, and now muſt <hi>Achan</hi> confeſſe his ſin, and give glory unto God.</p>
+            <p>Poor ſpirited Souldiers, what tempted you to witneſs a<g ref="char:EOLhyphen"/>gainſt your conſciences, againſt Chriſt, who came to be your Jeſus? What moved you to report the Diſciples ſtole away our Saviour by night when you were ſleeping? Souldiers and ſleep upon your watch! If ſleeping, how could you tell they ſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le him? if waking, why did you not obſtruct it? 'Twas the <hi>J<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ws</hi> money, that <hi>Aqua vitae</hi> to a bad cauſe, and Satan paid it; this teſtimony ſtands upon record, and their falſe witneſs will be againſt them when truth it ſelf ſhall appear.</p>
+            <p>I <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> at the laſt Commandement, <hi>Thou ſhalt not covet,</hi> ſo ſays G<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d: but Satan can diſpenſe with that, and give another comment upon the Commandement. Simple <hi>Ananias</hi> and <hi>Saphira,</hi> who moved you to ſell? You will ſay, Gods Spirit. Who moved thee to give? the ſame Spirit. But who moved thee to lye? who moved thee to court a ſtrange courting? be<g ref="char:EOLhyphen"/>fore thou ſoldſt it, was it not thy own? but when it was ſold it was Gods, that alienes the propriety; the whole ſum is re<g ref="char:EOLhyphen"/>quired, what moves thee to deny it? Deceitful and diſtruſtful <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>earts, would ſeem to ſerve God, but reſerve ſomething for your ſelves, would truſt to God but with a reſervation, ſeales God a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Deed but keeps poſſeſſion. I have poſted through the Precepts, I have ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>own you preſidents, I have ſet before you Satan<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>its, the beſt works, and duties, and perſons are not free from his temptations; let our Saviours Rules be general he ha<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> his exceptions; let Gods Commands be abſolute, Sa<g ref="char:EOLhyphen"/>tans demands ſhall be peremptory, plauſible, and very ſpacious; ſo was it here for bread when Chriſt was hungry: <hi>Then came to him the Tempter, and ſaid<g ref="char:punc">▪</g>
+               </hi> &amp;c.</p>
+            <p>And this leads us to the third part obſervable,<note place="margin">Third Part.</note> the manner of his temptation, <hi>He came unto him and ſaid,</hi> &amp;c.</p>
+            <q>He came unto him.</q>
+            <p>There is a vaſt difference betwixt coming unto, and coming into, the Tempter came unto Chriſt, but into <hi>Judas.</hi>
+            </p>
+            <p>Shall I ſeem to ſpeak a Paradox, if I ſay Satan hath a will to come near to Chriſt, but no will that Chriſt ſhould come near to him;<note place="margin">Job 1:</note> Satan came into the preſence of God as a ſervant
+<pb n="21" facs="tcp:107821:15"/>amongſt the Sons of God, ſome company is ever with Chriſt with whom Satan would have to do: There is a <hi>J<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b,</hi> and as God hath kept him, ſo Satan hath conſidered him;<note place="margin">M<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>m.</note> 
+               <hi>Imm<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nei huic occaſiont:</hi> If Chriſt and his Angels have true joy in the converſion of a ſinner, Satan and his Angels have their joy in the deluſion of a Saint; let <hi>Peter</hi> be with Chriſt, Satan is about him, and would be within <hi>Peter;</hi> let Chriſt do his work to win, Satan doth his part to winnow him<g ref="char:punc">▪</g> yet is the power of Chriſt ſo awful unto Satan, his preſence ſo much of preju<g ref="char:EOLhyphen"/>dice to his proceedings, that the very ſenſe thereof makes them complain of his coming near them. <hi>Quid habemus tecum agere,</hi>
+               <note place="margin">
+                  <hi>Ma t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> 8.29.</note> &amp;c. <hi>What have we to d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with thee, O Jeſus of N<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>z<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reth art thou come to torment us before the time.</hi> What plea ure can they have in his approach, or quiet, when they know it is to diſplace and diſpoſſeſs. When a ſtronger man cometh the Fort muſt be ſurrendred.</p>
+            <p>Wherever the Devil was found by Chriſt he diſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mfited him; he found him in heaven, thence he ejected him by his power; he finds him lurking in the ſecret cabinet of the heart, thence he throws him by his Word and Spirit; he finds him in the bodies of poſſeſſed men, thence he commands their departure and they unwillingly obey him; he might have kept his ſtate and would not, he would have kept heaven his habitation, but co<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld not; and this preſent trouble which they have at his preſence, gives them to remember their future tormen, for as he ſhall come to the completion of the joy of his elect, ſo ſhall he come to the fulneſs and aggravation of the demands, grief and ſorrow.</p>
+            <p>If any ſhall enquire in what manner or form the devil c mes unto the creatures, we muſt know that no form is <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lorious that he either does not, or dares not undertake, no language ſo heavenly which he cannot diſſemble. He transf<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rms himſelf into the likeneſs of an Angel of light,<note place="margin">2 Cor. 11.14.</note> light is taken there for glory, and without peradventure, where he deludes one as de<g ref="char:EOLhyphen"/>vil, he deceives thouſands as an Angel of glory.</p>
+            <p>When <hi>Saul</hi> contracts with the witch for the raiſing up <hi>Sa<g ref="char:EOLhyphen"/>muel,</hi> we find Satan appearing like the good old prophet, when <hi>Saul</hi> asks her what ſhe ſaw, ſhe anſwers,<note place="margin">1 Sam. 18.1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>Gods aſcending from the earth;</hi> He bids her not fear when he had more cauſe of ſear
+<pb n="22" facs="tcp:107821:16"/>and horrour; He enquires the form, <hi>an old man covered with a mantle,</hi> S tan neither wants the habit nor the haires of <hi>Samuel,</hi> not yet the language of the Prophet, <hi>Why haſt thou diſquieted me to bring me up? wherefore doſt thou ask of me ſeeing the Lord is depart<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d from thee?</hi> What could <hi>Samuel</hi> have ſaid if he had been preſent that Satan ſaies not in his likeneſs; he tells him his preſent condi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion, and that he may evidence himſelf a pro<g ref="char:EOLhyphen"/>phe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he pr<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>cts his future ſtate. <hi>To morrow thou ſhalt be with me and thy ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns,</hi>
+               <note place="margin">1 Sam. 28.19.</note> 
+               <hi>and God ſhall give the army into the hands of the Phil<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mes;</hi> and if we wonder at his ſpeaking ſince nothing can natur<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y ſpeak but what hath the inſtrumen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of ſpeech, which ſpirits have not, they can no otherwiſe ſpeak vocally (then as they <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſ me voices) in taking of bodies. This Tempter did appear in one likeneſs of a Serpent, and hath communica<g ref="char:EOLhyphen"/>ted m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch of his ſubtil<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y to that creature, pl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſible appearance and crafty inſinuation, ſeducing the we<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ker creature, the woman but we m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt conceive the ſpirit of the Devil in that Serpen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and ſo that Angel ſpeaks in the Serpent as the good Angel ſpoke in <hi>Bal<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ams</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſe; nor can we wonder of theſe miraculous transformings, and pr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>phet-like expreſſions, nor ye<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the wor<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of his evil ſpirit in the Serpent; if we conſider of the author whoſe Almightineſs can as eaſily create a voice withou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a body as a body without a voice.</p>
+            <p>When God asks Sa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an, not but that he knew it, <hi>Whence com<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt th u?</hi> that liar is fo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed to re<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urn a truth, <hi>From compaſſing the earth, walking to and fro up and down in it;</hi> Then as he comes unto Chriſt ſo is he continually about Chriſtians, and within the wicked, for by Gods permiſſion he is the ſame in the men<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>al p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſi ns, as he is in the corporal, and as he ſeats himſelf in the bodies, ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> endeavours to ſeize the ſouls of all wh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n he <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſ duce.</p>
+            <p>There is a threefold comming of Chriſt, ſaith holy <hi>Bernard. Ad homin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m in hominem, c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntra h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>minem;</hi>
+               <note place="margin">Bernard.</note> unto man to re<g ref="char:EOLhyphen"/>deem him, into man to comfort him, againſt man to judge him: And on the con<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry we may admit the like comings of Satan unto man, ſo unto Chriſt in<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o man, ſo into <hi>Ju<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>as</hi> and againſt man, ſo againſt the wicked who ha<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>rmed, and are reſerved for futher torment: <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>omings there is
+<pb n="23" facs="tcp:107821:16"/>this difference, unhappy they unto whom Chr ſt only came, and came not into them; but happy thoſe unto whom Satan comes, but enters not into them; Chriſt and Chriſtians c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nnot be free from the aſſaults of Satan, but happy <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re we, if with an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> through Chriſt he have not entertainment: The godly man is <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> great<g ref="char:EOLhyphen"/>eſt combatant, and it is through Chr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt only <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat he is conque<g ref="char:EOLhyphen"/>rour: So much of Sa an attends the regenera<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e man, n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, creeps within that he hath a great militancy wi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hin himſelf, which the elect veſſel St. <hi>Paul</hi> did undergo,<note place="margin">Rom. 7.23.</note> 
+               <hi>I ſee another law in my members, warring againſt the law of my minde, and bring<g ref="char:EOLhyphen"/>ing me into captivity:</hi> His only confidence was in his cham<g ref="char:EOLhyphen"/>pion Chriſt: the aſſa lts of Satan co ld not be by that holy man prevented, but by Chriſt in <hi>Paul</hi> they were repelled; And though our brain-ſick Saints will br<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g of their impeccan<g ref="char:EOLhyphen"/>cy, yet I muſt rank them among Saint <hi>Johns</hi> rabble, <hi>who de<g ref="char:EOLhyphen"/>ceive themſelves, and there is no truth in him,</hi> and then there muſt be much of error; and dare affirm with confidence and warrant, that whilſt we live in this Wilderneſs we can nei her free our ſelves from remanencies of ſin, nor ſeveral temptati<g ref="char:EOLhyphen"/>ons: And though <hi>S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>z men</hi> could report of <hi>Apoll<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nius,</hi> that he never was tempted, never wanted what he wiſhed, yet I may doubt that full ſupply might turn a temptation, and ſhall not without ſcruples aſcertain their titles unto Heaven, who labour not to aſſure it under the ſeal of many tryals.</p>
+            <p>It was the complaint of our Saviour, that though <hi>his Houſe was appointed for prayer, yet they had made it a den of theeves:</hi> And it is to be feared that our bodies, which <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re as the Temple, and our ſouls as the <hi>ſanctum ſanct<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ram,</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re become the recep<g ref="char:EOLhyphen"/>tacles of Satan.</p>
+            <p>For what requireth or coveteth Satan, but that which is Gods due, the heart? our condition is never ſo dangerous whilſt we quench his evil motions, and do not give w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y to his ſuggeſti<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and ſuffer our ſelves to be overcome of ou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> own corrupti<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> A g<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>od Souldier, when he is beſi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ged, though he cannot <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er his enemy from aſſaul<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing, yet he will be circumſpect th t he may not enter, and if he have a Mutineer within his Garriſon he will be ſure to ſecure him: A good Chriſtian, though he has enemies abroad, yet he will <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>bour to have all at
+<pb n="24" facs="tcp:107821:17"/>home in quiet. <hi>Cortugal</hi> the Turkiſh Embaſſadour returns from <hi>Rhodes</hi> with this intelligence to his Maſter, <hi>Chriſtianus occaſus inteſtinis diſſid<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is corroboratur,</hi> Home differences do promiſe and confirm victory to our forreign Adverſaries, <hi>Iſrael</hi> could not ſtand againſt <hi>Ai</hi> becauſe there was an accur<g ref="char:EOLhyphen"/>ſed thing in the midſt of <hi>Iſrael:</hi>
+               <note place="margin">Joſh. 7.13.</note> Satans temptations are not in their way unlike to <hi>J<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhuahs</hi> beſieging of <hi>Jericho, Diabo<g ref="char:EOLhyphen"/>lus eſt dei ſimia,</hi> he goes about the City, he ſhuts up the ſoul ſtrictly he would not have any thing of Chriſt to come in, nor any thing of a good motion to come out for its aſſiſtance; yet can he not take the City, enter the ſoul, till the walls fall. And more, Satan though he ſeem to ſlight it at the firſt, that his aſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ults be not ſo aſſiduous, yet at the laſt he ſhall compaſs the City ſeven times: At the firſt he draws forth his temptations, which may be named after him, Legion, for they are many, give thy ſoul an Alarum, proffer thee fair conditions, draw a league betwixt you, proffer a truce if thou wilt pay him tribute, promiſe to remove hoſtility if thou wilt pay him homage, but all this time he waits but an opportunity of approaching, nay of entering.</p>
+            <p>It was a prudent and ſafe piece of advice which a Councel<g ref="char:EOLhyphen"/>lour gave to his King. <hi>That it was only ſafe for a King to treat with a ſword in his hand:</hi> And it is ſafe for every Chriſtian, we have a dangerous enemy to deal withall. <hi>Judas</hi> was their General and led thoſe that took Jeſus, he comes unto him with a kiſſe, when he brought them to kill him; we have no ſafer way then to keep him at the ſwords point. A noble and ju<g ref="char:EOLhyphen"/>dicious Peer of this Realm was wont to ſay, <hi>Prevention was cheaper then recovery, our armour avails us little after the wound be received, that which timely put on had kept out the bullet, now ſerves but to increaſe the wound,</hi> and to that purpoſe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> though <hi>Saul</hi>'s Armour will not fit <hi>David,</hi> yet is it not fitting that <hi>David</hi> ſhould combate with <hi>Goliah</hi> wholly unpre<g ref="char:EOLhyphen"/>pared.</p>
+            <p>We muſt obſerve, that <hi>Sauls</hi> Armour<g ref="char:punc">▪</g> another mans<g ref="char:punc">▪</g> will not ſerve us in this day of battel; and why? ſayes <hi>David, For that I have not proved.</hi>
+               <note place="margin">1 Sam. 17.39.</note> Chriſt Armour, by which he repels Satan, was his own Armour which he hath proved, we may ſay it, him<g ref="char:EOLhyphen"/>ſelf,
+<pb n="25" facs="tcp:107821:17"/>for he was the Word, and this is temptation proof, one job one ſyllable of this ſhall no<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſail. Holy <hi>Job</hi> n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> had ſpecial Armor, the Devil conſidered him, conſidered what way he might enter him, but he finds God had made a hedge about him; his goods they were abroad in the fields, the lives of his children they were in the houſe of their eldeſt brother, only the life of <hi>Job</hi> was incloſed, was hedged about: Satan attempts a nearer aſ<g ref="char:EOLhyphen"/>ſault, moves that his bone and his fleſh may be touched, and yet can he only fire the ſubburbs, but the City he cannot take; his body may be plagued, but his life and ſoul is protected.</p>
+            <p>The Church the Spouſe of Chriſt hath Armour of proof, ſhe is builded upon a Rock, and that Rock is Chriſt, like a good Wife ſhe is under covert, the gates of Hell, though they labour her diſcomfiture, yet ſhall they not prevail againſt her: The Dragon may and will make war againſt the Woman, he may like a reſolute Souldier rally his forces, prepare his batteries<g ref="char:punc">▪</g> pour out his poyſon, floods and waters, croſſes and perſecutions, ſchiſmes and hereſies, yet ſhall he not prevail, Chriſt ſhall break his head; but let his members be prepared, wrath and war is againſt them; he will, though he ſhall not break, we bruiſe his heel; he will labour to ſe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Buſh on fire, though, bleſſed <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> God, it ſhall not be conſumed; this fire of the Church ſhall give light though it doth not burn, but Satans <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ell fire ſhall burn though it gives no light. And thus I am come to the Applica<g ref="char:EOLhyphen"/>tion.</p>
+            <p>
+               <hi>Nunquidego Domine,</hi> was the Diſciples, <hi>Is it I Lord?</hi> Who is it that Satan does thus aſſault? No leſſe then Chriſt; and if this befall the Maſter,<note place="margin">2 Cor. 16.15.</note> what may the ſervant <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> If Sat<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> dare aſſault Chriſt, his ſervants will dare to <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſciples: If Satan be transformed, it is no gre<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>niſters be transformed: If no man can be <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ra<g ref="char:EOLhyphen"/>tion, then no man but he is concerned in thi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ex<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, a<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e ſad example, which occaſions this Sermon, conc<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ns us, and to good and evil is an admonition; the time, place and conditi<g ref="char:EOLhyphen"/>on of the perſon tempted doth concern us: The time, when Chriſt had begun the great work of our redemption, when he was entering into the execution of his divine Office, it is not for man to appear in the field of God without he be armed
+<pb n="26" facs="tcp:107821:18"/>for all encounters, ſhrubs may be unmoved when the talleſt Ce<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ars are ſhaken, and privacy doth ſuperſede from ſeveral attempts, whereunto thoſe of publick concernment are ex<g ref="char:EOLhyphen"/>poſed.</p>
+            <p>He that eſpouſeth the Lords quarrel cannot but expect ma<g ref="char:EOLhyphen"/>ny adverſaries, and few men, though they may put themſelves forward, are fitted for this conflict. <hi>Gideons</hi> Army of thirty two thouſand are reduced to three hundred, and ſerves to in<g ref="char:EOLhyphen"/>form, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at as God can do his work by few, ſo few are ſitting for doing Gods work<g ref="char:punc">▪</g> how few will ſtand &amp; lap water in their ſpiri<g ref="char:EOLhyphen"/>tual mar<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> not y<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>el an inch of ground,<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.6.</note> not looſe of their neight in time of danger? How many will kneel and bend for water in the fiery tryal? and though they be armed and furniſhed to the field yet, like the children of <hi>Ephrams,</hi> they prove but bro<g ref="char:EOLhyphen"/>ken bows, and ſtart back in the day of battel: but Chriſt hath not to taught us. <hi>Saul</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e killed his thouſands, and <hi>David</hi> his ten thouſands; but Chriſt doth more, for though his perſon meets with Legions, his word ejects them, ſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>yes them. Lord, thou h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt given us thy Word, give us thy Spirit, and we ſhall not be afraid if thouſand, be againſt us.</p>
+            <p n="2">2. The place doth concern us, it was in the Wilderneſſe: <hi>Eli<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ah</hi> was much dejected when he was alone, and the place doth not a little contribute to the leſſening or augmenting of miſery. <hi>Adam</hi> had a Para<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſe, <hi>Chriſt</hi> finds a Wilderneſſe, <hi>Joſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>h</hi> a Priſon, <hi>Jeremy</hi> a Dangeon, <hi>Daniel</hi> a <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ons Den, the three Children a fiery F<gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ce, <hi>Peter</hi> and <hi>Paul</hi> a Priſon, but <hi>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>x<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>o paſſio cum Chriſtus ingreditur careres,</hi> happy priſon <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, unhappy paradiſe where Satan inhabits: <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> are in the Wilderneſſe how weary we are of <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e dye,</hi> ſayes <hi>Elijah:</hi> when <hi>Peter</hi> was left alone <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith began to ſaint, and going afar off gave <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n to interpoſe temptations: Hold up our <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>derne<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of this world with that comfortable <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> with ye in life in death: thus ſhall the De<g ref="char:EOLhyphen"/>ſert be leli<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ome to us.</p>
+            <p n="3">3. The condition, <hi>He was hungry:</hi> Sometimes want and ſometimes wealth are in <hi>laqueum. Agar</hi> prayed againſt both; <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ve m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> neither poy<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> nor riches, not poverty, leaſt I be poor
+<pb facs="tcp:107821:18"/>and ſteal, not riches leaſt I b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> full and forget God: Pread<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the bait which he laid before Chriſt, if that would have temp<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> him, Chriſt had turned thief and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ob'<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God of his honour. I<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>neſs was <hi>Judahs,</hi> yes and <hi>Sodoms</hi> ſin, and hath been, my, and <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> our iniquity, It we want we murmure, if we have plenty we lift up our hearts againſt God, and our <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lneſs <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erve<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in to the full againſt God: And we have great cauſe to impect the ſins of our fulneſs when we do but <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ll<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t upon Chriſts <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>er <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by his faſting, ſeeing therefore for our ſakes and ſins, that righte<g ref="char:EOLhyphen"/>o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſneſs did hunger, <hi>Give us Lord, for thy ſons ſake, hearts to hun<g ref="char:EOLhyphen"/>ger after righteouſneſs.</hi>
+            </p>
+            <p>Again it is the Tempter which comes unto Chriſts ſurely we cannot (though he aſſumes ſeveral forms) but underſtand him. Wouldſt thou know him by his appe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>latives? Names are predictionary, ſo are <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is, not one but it hints the evilneſs of, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s nature. W<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>l <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> judge of him by his works<g ref="char:punc">▪</g> they are like the authour, and ſpeak not his pr<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſe, but his ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ame in the gates. Is it any thing would tempt thee to unlawful acts? it is <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, thou canſt but ſuſpect him: Is it any thing would diver thee from thy God? it is the Devil thou haſt cauſe to <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> him: Is it any thing would tempt thee unto ſi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>? it is the deceiver: Is it any thing would make ſhip<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>v<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ck of thy ſaith<g ref="char:punc">▪</g> it is the ſon of perdition: Is <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> my thing may <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of one pre<g ref="char:EOLhyphen"/>cept, the commiſion of a ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of the D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vil thy unto him as Chriſt unto Satan tempting <hi>Peter, <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thee behind me Satan.</hi>
+            </p>
+            <p>But if he preſumes to come unto Chriſt how ſhall I withſtand him; Chriſt promiſed <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eave <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> le<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s; what he promiſed he hath performed: That a<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>our w<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>h hep<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d, wherewith he prevailed, as a legacy of his l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve, is tendeth be<g ref="char:EOLhyphen"/>queath'd unto thee, <hi>Scripium ſi,</hi> it is written was Satans wea<g ref="char:EOLhyphen"/>pon; this proud <hi>Goliah</hi>'s ſword <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ath our better <hi>D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vid</hi> t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ken f<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> him, cut off <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s hea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with his own ſw<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rd, and turned the <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> himſelf: The while panoply<g ref="char:punc">▪</g> the compleat ar<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>roved furniture are afforded; Chriſtians muſt the C<gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>: med from top to toe,<note place="margin">Ephe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 6.14.</note> there is a he<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>met and a breaſt-plate, a ſhie<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d and a tried <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>word, and if your enemies be prin<g ref="char:EOLhyphen"/>cipalities and powers, your armour is experienced, your en<g ref="char:EOLhyphen"/>gines
+<pb facs="tcp:107821:19"/>
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> as powerful, not parleys and ſurrenders, but prayers <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſupplications, theſe ordnance does gall your adverſaries, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with an acceptable violence opens the gates of heaven, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> only place of refuge to the conquerors, the choiceſt Centi<g ref="char:EOLhyphen"/>nel is perſeverance; In this quarrel our Captain is before us, that valiant <hi>J<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nathan,</hi> who through temptations hath prevailed, aſcended up the hill, and having in his fathers houſe prepared Manſions, calls to us for our following; good ſouldiers will not fail the expection of their Captain; loyal ſubjects will go whereſoever their King goeth, in life and death they will be with him, O bleſſed Captain glorious King! thou haſt conque<g ref="char:EOLhyphen"/>red Satan for us, thou haſt left us thy Spirit to conduct us, thy Word to comfort us, the ſword of thy Word and Spirit to de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>end us; let the ſame ſpirit go along with us in this conflict, and in our ſelves, though we are unable, yet through thy ſtrength we ſhall be more then conquerours. In this battel be thou with <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, who by thy blood hath overcome our enemies, and give us hearts to aſcribe the glory of this conqueſt unto thee, that when this painful time of our militancy is ended, we may be<g ref="char:EOLhyphen"/>come members of the Chur<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h triumphant praiſing thee with Songs of Salvation and victory for evermore, Amen.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:107821:19"/>
+            <pb facs="tcp:107821:20"/>
+         </div>
+      </body>
+   </text>
+</TEI>
